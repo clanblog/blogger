@@ -4,7 +4,7 @@ var _0x81ec = ['<ul class="rel-container">', "write", "entry", "feed", "$t", "ti
 '"><img class="rel-post-img" src="', '"/></a></div>', '<div class="rel-post-title"><a href="', '" target ="_top">', "</a></div>", "summary", '<div class="rel-summary">', "replace", " ", "lastIndexOf", "...", "</div>", '<div class="rel-posts-inf">', ", ", " <br> ", "1 Comments", "1 Comment", "0 Comments", "No Comments", '<a href="', '">', "</a>", "</li>", "</ul>"];
 /** @type {number} */
 var jmh_post = 100;
-img_post = true, comment_post = false, kpn_post = true, isi_posting = false, isi_post = 70;
+img_post = false, comment_post = false, kpn_post = true, isi_posting = false, isi_post = 70;
 /**
  * @param {?} canCreateDiscussions
  * @return {undefined}
